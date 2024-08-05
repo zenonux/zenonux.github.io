@@ -41,6 +41,8 @@ const config: Config = {
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
+          blogSidebarTitle: "All posts",
+          blogSidebarCount: "ALL",
           routeBasePath: "/",
           showReadingTime: true,
           // Please change this to your repo.
