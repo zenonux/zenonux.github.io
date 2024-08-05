@@ -40,6 +40,7 @@ const config: Config = {
           blogSidebarTitle: "All posts",
           blogSidebarCount: "ALL",
           routeBasePath: "/",
+          showLastUpdateTime: true,
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
