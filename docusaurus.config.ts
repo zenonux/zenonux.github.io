@@ -84,7 +84,7 @@ const config: Config = {
       // Public API key: it is safe to commit it
       apiKey: 'cd6d536d63383698497344f6a8b05fec',
 
-      indexName: 'blog',
+      indexName: 'zenonuxio',
 
       // Optional: see doc section below
       contextualSearch: true,
